@@ -1,4 +1,3 @@
-# CSV-parser-from-scratch-in-python
 # Custom CSV Parser From Scratch in Python
 
 This project implements a **Custom CSV Reader and Writer** completely from scratch using pure Python.  
@@ -17,7 +16,7 @@ All functionality has been implemented and validated using automated tests.
 
 ---
 
-## 📦 Project Structure
+## Project Structure
 
 ```
 CSV-parser-from-scratch-in-python/
@@ -36,7 +35,7 @@ CSV-parser-from-scratch-in-python/
 
 #  Features
 
-### ✔ Custom CSV Reader
+### Custom CSV Reader
 Implements:
 - Proper comma parsing  
 - Quote handling  
