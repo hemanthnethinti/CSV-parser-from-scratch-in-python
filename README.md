@@ -28,7 +28,8 @@ CSV-parser-from-scratch-in-python/
 ├── benchmark.py            # Performance benchmarking script
 ├── benchmark_data.csv      # Generated dataset (ignored if large)
 ├── requirements.txt        # External dependencies (none)
-└── README.md               # Documentation (this file)
+├── README.md               # Documentation (this file)
+└── .gitignore              # Files to ignore (e.g., benchmark_data.csv)
 ```
 
 ---
