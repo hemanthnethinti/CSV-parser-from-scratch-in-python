@@ -1,4 +1,4 @@
-a# Custom CSV Parser From Scratch in Python
+# Custom CSV Parser From Scratch in Python
 
 This project implements a **Custom CSV Reader and Writer** completely from scratch using pure Python.  
 It is built as part of a Data Engineering task (GPP), focusing on understanding CSV parsing mechanics, file I/O, buffering, quoting rules, and performance benchmarking.
